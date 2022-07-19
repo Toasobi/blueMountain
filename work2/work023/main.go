@@ -4,13 +4,13 @@ import "fmt"
 
 //dfs深搜典型题
 
-var n int = 3
+var n int
 
-var m int = 3
+var m int
 
-var x int = 1
+var x int
 
-var y int = 1
+var y int
 
 var ar = [][]int{}
 
