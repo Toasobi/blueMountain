@@ -1,9 +1,9 @@
 package main
 
 import (
-	"blueMountain/work3/controller"
-	"blueMountain/work3/dao"
-	"blueMountain/work3/model"
+	"blueMountain/work3/mysql/controller"
+	"blueMountain/work3/mysql/dao"
+	"blueMountain/work3/mysql/model"
 )
 
 func main() {

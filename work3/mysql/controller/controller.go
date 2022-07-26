@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"blueMountain/work3/model"
+	"blueMountain/work3/mysql/model"
 	"fmt"
 
-	"blueMountain/work3/dao"
+	"blueMountain/work3/mysql/dao"
 )
 
 //1.查询查询服装尺码为'S'且销售价格在100以下的服装信息
