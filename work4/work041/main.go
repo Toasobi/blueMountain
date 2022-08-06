@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func isValid(s string) bool {
-	//首先判断长度
+	//首先字符串判断长度
 	if len(s)%2 == 1 {
 		return false
 	}
